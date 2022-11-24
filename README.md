@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @oguzhanbolukbasi
-- 👀 I’m interested in Swift&xCode and SAP Basis
+- 👀 I’m interested in Swift&xCode
 - 🌱 I’m currently learning software development in Swift and xCode
 - 💞️ I’m looking to collaborate on software development
 - 📫 How to reach me e-mail : bolukbasioguzhan@gmail.com
